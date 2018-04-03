@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HashVault Pool</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="mainDrawable_text">Главная</string>
+    <string name="valutaDrawable_text">Валюты</string>
+    <string name="otherDrawable_text">Другое</string>
+    <string name="shareDrawable_text">Поделиться</string>
+    <string name="aboutAppDrawable_text">О программе</string>
+    <string name="addNewMiner">Добавить майнер</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Будет отображаться список на главной странице</string>
+    <string name="add_fragment">Select Pull:</string>
+    <string name="addMinerNameText">Miner\'s name</string>
+
+    <string name="pull_internet_address">ETH Ethermine.org</string>
+
+</resources>
